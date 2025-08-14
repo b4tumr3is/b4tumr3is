@@ -1,5 +1,5 @@
 <h1 align="center">A Human Loves Linux & Computers</h1>
-<h3 align="center">I am loving GNU/Linux and Computers</h3>
+<h3 align="center">I love GNU/Linux and Computers 🖥️ 🐧 </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
