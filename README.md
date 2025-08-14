@@ -1,4 +1,4 @@
-<h1 align="center">A Human Loves Linux & Computers b4tumr3is</h1>
+<h1 align="center">A Human Loves Linux & Computers</h1>
 <h3 align="center">I am loving GNU/Linux and Computers</h3>
 
 
